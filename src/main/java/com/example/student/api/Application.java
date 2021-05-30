@@ -11,3 +11,9 @@ public class Application {
 	}
 
 }
+
+//Rest Endpoints
+//Create a student
+//Delete a student
+//Update a student
+//Retrieve a student
